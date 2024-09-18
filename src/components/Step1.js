@@ -13,7 +13,7 @@ const Step1 = ({ formData, setFormData, errors }) => {
 
   return (
     <div>
-      <h2>Step 1: Personal Information</h2>
+      <h2>Personal Information</h2>
       <form>
         <div className="form-group">
           <label>Name:</label>

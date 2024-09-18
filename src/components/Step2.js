@@ -11,7 +11,7 @@ const Step2 = ({ formData, setFormData, errors }) => {
   
     return (
       <div>
-        <h2>Step 2: Address Information</h2>
+        <h2> Address Information</h2>
         <form>
           <div className="form-group">
             <label>Address Line 1:</label>

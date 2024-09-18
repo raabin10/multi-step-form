@@ -3,7 +3,7 @@ import React from 'react';
 const Step3 = ({ formData }) => {
   return (
     <div>
-      <h2>Step 3: Confirmation</h2>
+      <h2> Confirmation</h2>
       <div>
         <strong>Name:</strong> {formData.personalInfo.name}
       </div>
